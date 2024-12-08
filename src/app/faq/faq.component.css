@@ -1,0 +1,12 @@
+.accordion{
+    max-width: 80%;
+    text-align: center;
+    margin: 5% 15%;
+}
+.heading{
+    padding-top: 2%;
+    padding-left: 9%;
+}
+.accordion{
+    background-color: bisque;
+}

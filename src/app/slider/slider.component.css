@@ -1,0 +1,25 @@
+.heading{
+    padding-top: 2%;
+    padding-left: 9%;
+}
+.container1{
+    background-color: bisque;
+    max-width: 100%;
+    margin: 2% 8%;
+    border-radius: 10px;
+}
+.slider-image img{
+    max-width: 100%;
+    margin: 5% 0% 5% 30%;
+}
+.slider-content{
+    display: flex;
+}
+.slider-content .slider-description{
+    padding: 5% 15%;
+}
+.explorenow{
+    background-color: rgba(255, 102, 0, 0.922) !important;
+    margin:10px 0px;
+    padding: 7px 35px;
+}

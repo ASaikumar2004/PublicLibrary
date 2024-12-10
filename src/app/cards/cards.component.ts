@@ -21,5 +21,4 @@ export class CardsComponent {
   carddetails(id:number | undefined){
     this.router.navigate(['/card',id])
   }
-
 }

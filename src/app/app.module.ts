@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CardsdetailsComponent } from './cardsdetails/cardsdetails.component';
@@ -16,6 +15,8 @@ import { SliderComponent } from './slider/slider.component';
 import { ForyouComponent } from './foryou/foryou.component';
 import { ExploreComponent } from './explore/explore.component';
 import { EventsComponent } from './events/events.component';
+import { AdultComponent } from './adult/adult.component';
+import { AdultpageComponent } from './adultpage/adultpage.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,7 +31,9 @@ import { EventsComponent } from './events/events.component';
     SliderComponent,
     ForyouComponent,
     ExploreComponent,
-    EventsComponent
+    EventsComponent,
+    AdultComponent,
+    AdultpageComponent
   ],
   imports: [
     BrowserModule,
